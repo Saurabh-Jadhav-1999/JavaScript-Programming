@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-Jadhav-1999/JavaScript-Assingmen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabh-Jadhav-1999/JavaScript-Assingmen/issues"
+  },
+  "homepage": "https://github.com/Saurabh-Jadhav-1999/JavaScript-Assingmen#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  }
+}
